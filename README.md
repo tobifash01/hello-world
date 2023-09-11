@@ -1,1 +1,1 @@
-# hello-world
+I would like to learn more about frontend and backend programming langauges and frameworks such as HTML, CSS, javascript, reacts, Vue, python and django. 
